@@ -1,6 +1,5 @@
 <?php
-//setup
-$passkey = "123456";
+include ('./config.php');
 
 function Countfile()
 {
